@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\samemart-monolith\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4252997714.index
+3587185678.index
+2440342814.index
